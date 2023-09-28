@@ -1,0 +1,10 @@
+let carro;
+console.log(carro);
+var userName = 'Lorenzo';
+console.log (userName);
+// const modelo;
+// console.log (modelo);
+const cerveza = 'Victoria';
+console.log (cerveza);
+let $car = 'Koenigseigg';
+console.log ($car);
